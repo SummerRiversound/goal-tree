@@ -51,7 +51,14 @@ It stays out of the way for a one-line change, a bug fix, or work that a spec al
 
 ## Install
 
-**Claude Code / Claude agents**: clone it into your skills directory.
+**Claude Code**: install it as a plugin, so `/plugin update` keeps it current.
+
+```
+/plugin marketplace add https://github.com/SummerRiversound/goal-tree.git
+/plugin install goal-tree@goal-tree
+```
+
+**Or clone it** into your skills directory (any Claude agent):
 
 ```bash
 # personal (all projects)
