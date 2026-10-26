@@ -1,0 +1,21 @@
+{
+  "name": "goal-tree",
+  "displayName": "Goal Tree",
+  "version": "1.0.0",
+  "description": "Before a big job, build the goal tree with the user: top goal, sub-goals, and ordered milestones you can check.",
+  "author": {
+    "name": "SummerRiversound",
+    "url": "https://github.com/SummerRiversound"
+  },
+  "homepage": "https://github.com/SummerRiversound/goal-tree#readme",
+  "repository": "https://github.com/SummerRiversound/goal-tree",
+  "license": "MIT",
+  "keywords": [
+    "planning",
+    "goals",
+    "milestones",
+    "roadmap",
+    "agent-skill"
+  ],
+  "skills": "./"
+}

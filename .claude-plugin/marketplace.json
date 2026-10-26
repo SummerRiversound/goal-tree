@@ -1,0 +1,23 @@
+{
+  "name": "goal-tree",
+  "description": "Before a big job, build the goal tree with the user: top goal, sub-goals, and ordered milestones you can check.",
+  "owner": {
+    "name": "SummerRiversound",
+    "url": "https://github.com/SummerRiversound"
+  },
+  "plugins": [
+    {
+      "name": "goal-tree",
+      "source": "./",
+      "description": "Before a big job, build the goal tree with the user: top goal, sub-goals, and ordered milestones you can check.",
+      "category": "productivity",
+      "tags": [
+        "planning",
+        "goals",
+        "milestones",
+        "roadmap",
+        "agent-skill"
+      ]
+    }
+  ]
+}
